@@ -21,7 +21,6 @@ Email: yousafswim@gmail.com
 Java Programming (from basics to advanced)
 AI and ML algorithms and models
 Web Development (frontend and backend)
-Coding Best Practices
 
 📌 My Projects:
 Here are a few of my awesome projects:
