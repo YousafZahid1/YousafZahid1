@@ -29,3 +29,4 @@ Tutor UP: A website that connects students with top tutors.
 Personal Website
 and some more... :)
 
+![Profile Views](https://komarev.com/ghpvc/?username=YousafZahid1&color=blue) 
