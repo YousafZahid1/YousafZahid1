@@ -29,7 +29,7 @@ I'm a high school student passionate about Computer Science and Artificial Intel
 Python • Java • HTML/CSS • SQL • Django • OpenCV  • Docker  • Flask • and many more :)
 
 **Areas of Interest:**  
-Artificial Intelligence • Machine Learning • Web Development • Game Development • Accessibility Technology
+Artificial Intelligence • Machine Learning • Web Development • Accessibility Technology
 
 ---
 
