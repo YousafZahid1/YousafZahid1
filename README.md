@@ -1,32 +1,45 @@
-Hey there, I'm Yousaf Zahid 👋
-Welcome to my GitHub profile! I'm a passionate Computer Science enthusiast and an aspiring AI/ML engineer. 🚀 Currently, I'm focused on sharpening my skills and learning new tech to build the future. 💡
+# 👋 Hi, I'm Yousaf Zahid
 
-🚀 About Me:
-👨‍💻 Tech Stack: HTML, CSS, Java, Python, AI/ML
-🔥 Currently Learning: Advanced AI/ML techniques, Data Structures & Algorithms, Java Collections Framework
-📈 Looking to master: Machine Learning, Deep Learning, Computer Vision
-🎯 Goal: To work in AI and make an impact by creating innovative solutions that can solve real-world problems.
+I'm a high school student passionate about Computer Science and Artificial Intelligence. I love building projects that blend creativity with technology, aiming to solve real-world problems and enhance user experiences.
 
-🌱 What I'm Learning:
-AI/ML: Exploring deep learning frameworks, reinforcement learning, and NLP.
-Java: Getting deep into the Java Collections Framework, algorithms, and design patterns.
-Web Dev: Improving my full-stack development skills with HTML, CSS, JS, and Python.
-Cybersecurity: Diving into the world of securing data and building robust systems.
+---
 
-💬 Get In Touch:
-LinkedIn: Yousaf Zahid
-Email: yousafswim@gmail.com
+##  Projects
 
-🔧 Things I Can Help With:
-Java Programming (from basics to advanced)
-AI and ML algorithms and models
-Web Development (frontend and backend)
+- **👁️ Hoya Helper**  
+  An accessibility tool that combines eye-tracking and voice recognition to enable hands-free computer control. Built with Python and OpenCV, it aims to assist users with physical limitations.
 
-📌 My Projects:
-Here are a few of my awesome projects:
-Eye Tracking and Voice Command: Eye tracking and Voice recognition to control devices hands-free
-Tutor UP: A website that connects students with top tutors.
-Personal Website
-and some more... :)
+- **📚 Tutor UP**  
+  A Django-based platform connecting students with qualified tutors. Features include profile management, subject matching, and appointment scheduling to streamline the tutoring process.
 
-![Profile Views](https://komarev.com/ghpvc/?username=YousafZahid1&color=blue) 
+- **💰 Finance App**  
+  A personal finance tracker designed to help users manage income, expenses, and savings goals. Emphasizes a clean UI and practical features like category-wise breakdowns and monthly summaries.
+
+- **🕹️ Spaced Invaders**  
+  A retro-style arcade game inspired by classic "Space Invaders." Developed using Python and Pygame, it features player controls, score tracking, and animated enemies.
+
+- **📝 Django Blog with Docker & Celery**  
+  A blogging platform utilizing Django for the backend, Docker for containerization, and Celery for handling background tasks. Includes user authentication, post creation, and email notifications.
+
+- **🔐 Tkinter Auth GUI**  
+  A desktop application built with Python's Tkinter library, providing a GUI for user authentication. Demonstrates versatility in developing both web and desktop applications.
+
+---
+
+##  Skills & Interests
+
+**Languages & Tools:**  
+Python • Java • HTML/CSS • SQL • Django • OpenCV  • Docker  • Tkinter and many more :)
+
+**Areas of Interest:**  
+Artificial Intelligence • Machine Learning • Web Development • Game Development • Accessibility Technology
+
+---
+
+##  Contact Me
+
+- **Email:** yousafswim@gmail.com  
+- **LinkedIn:** [Yousaf Zahid](https://www.linkedin.com/in/YousafZahid)
+
+## Profile Views count
+![Profile Views](https://komarev.com/ghpvc/?username=YousafZahid1&color=blue)
