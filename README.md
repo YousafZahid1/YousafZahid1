@@ -36,7 +36,7 @@ Artificial Intelligence • Machine Learning • Web Development • Accessibili
 ##  Contact Me
 
 - **Email:** yousafswim@gmail.com  
-- **LinkedIn:** [Yousaf Zahid](https://www.linkedin.com/in/YousafZahid)
+- **LinkedIn:** [Yousaf Zahid](https://www.linkedin.com/in/yousaf-zahid/)
 
 ## Profile Views count
 ![Profile Views](https://komarev.com/ghpvc/?username=YousafZahid1&color=blue)
