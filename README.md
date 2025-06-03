@@ -26,7 +26,7 @@ I'm a high school student passionate about Computer Science and Artificial Intel
 ##  Skills & Interests
 
 **Languages & Tools:**  
-Python • Java • HTML/CSS • SQL • Django • OpenCV  • Docker  • Tkinter and many more :)
+Python • Java • HTML/CSS • SQL • Django • OpenCV  • Docker  • Flask • and many more :)
 
 **Areas of Interest:**  
 Artificial Intelligence • Machine Learning • Web Development • Game Development • Accessibility Technology
