@@ -18,8 +18,6 @@ I'm a high school student passionate about Computer Science and Artificial Intel
 - **🕹️ Spaced Invaders**  
   A retro-style arcade game inspired by classic "Space Invaders." Developed using Python and Pygame, it features player controls, score tracking, and animated enemies.
 
-- **🔐 Tkinter Auth GUI**  
-  A desktop application built with Python's Tkinter library, providing a GUI for user authentication. Demonstrates versatility in developing both web and desktop applications.
 
 ---
 
