@@ -17,6 +17,8 @@ I'm a high school student passionate about Computer Science and Artificial Intel
 
 - **🕹️ Spaced Invaders**  
   A retro-style arcade game inspired by classic "Space Invaders." Developed using Python and Pygame, it features player controls, score tracking, and animated enemies.
+- ** Stock Predictor**
+  A machine learning project that classifies stock movement into 5 categories based on daily price change and Google Trends search data using logistic regression.
 
 
 ---
