@@ -25,6 +25,7 @@ I'm a high school student passionate about Computer Science and Artificial Intel
 
 ---
 
+
 ##  Skills & Interests
 
 **Languages & Tools:**  
