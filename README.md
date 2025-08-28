@@ -34,7 +34,6 @@ Python • Java • HTML/CSS • C++ • SQL • Django • OpenCV  • Docker  
 Artificial Intelligence • Machine Learning • Web Development • Accessibility Technology
 
 ---
-
 ##  Contact Me
 
 - **Email:** yousafswim@gmail.com  
