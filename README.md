@@ -6,16 +6,16 @@ I'm a high school student passionate about Computer Science and Artificial Intel
 
 ##  Projects
 
-- **👁️ Hoya Helper**  
+- ** Hoya Helper**  
   An accessibility tool that combines eye-tracking and voice recognition to enable hands-free computer control. Built with Python and OpenCV, it aims to assist users with physical limitations.
 
-- **📚 Tutor UP**  
-  A Django-based platform connecting students with qualified tutors. Features include profile management, subject matching, and appointment scheduling to streamline the tutoring process.
+- ** LifeLine**  
+  Sees what you see and makes the best decisions for you. A mobile app that gives real-time voice guidance, AI camera analysis, and is trained on large amounts of emergency data to guide you on what to do.
 
-- **💰 Finance App**  
+- ** Finance App**  
   A personal finance tracker designed to help users manage income, expenses, and savings goals. Emphasizes a clean UI and practical features like category-wise breakdowns and monthly summaries.
 
-- **🕹️ Spaced Invaders**  
+- ** Spaced Invaders**  
   A retro-style arcade game inspired by classic "Space Invaders." Developed using Python and Pygame, it features player controls, score tracking, and animated enemies.
   
 - **Stock Predictor**  
